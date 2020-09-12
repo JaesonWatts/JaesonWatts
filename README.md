@@ -7,7 +7,7 @@ I have been out of the field for a time due to some unexpected medical issues. E
 
 During my convalescence I have been working at self study of CompTia A+ materials, linux admin practices, and full stack development. 
 
-I believe the skills I have developed over my lifetime as a computerphile as well as the dedicated learning I have been focused on would be a great asset to any company that hires me to the team. I have a basic knowledge of Python and the Pandas library and I am proficient with HTML, CSS, Javascript, Ruby, and Ruby-on-Rails, and continue to learn everyday. 
+I believe the skills I have developed over my lifetime as a computerphile as well as the dedicated learning I have been focused on would be a great asset to any company that hires me to the team. I have a basic knowledge of Python and the Pandas library and I am proficient with HTML, CSS, Javascript, Ruby, Ruby-on-Rails, React, and Redux, and continue to learn everyday. 
 
 🌱 I’m currently on track to graduate Flatiron School's Full Time Online Software Engineering Bootcamp in September, 2020.
 

@@ -1,16 +1,8 @@
 ### Hi there 👋
-Thank you for taking the time to stop in and read this! 
-
-I am a highly motivated and progress-focused ex-Deputy Sheriff with a long-standing personal background working with computers. I consider myself to be a talented learner. With a track record of initiative and dependability, I believe I have the drive and talents which will prove valuable to your organization. 
-
-I have been out of the field for a time due to some unexpected medical issues. Everything has been taken care of and I am ready to get back into the workforce. I would be open to elaborate more if you have further questions! 
-
-During my convalescence I have been working at self study of CompTia A+ materials, linux admin practices, and full stack development. 
-
-I believe the skills I have developed over my lifetime as a computerphile as well as the dedicated learning I have been focused on would be a great asset to any company that hires me to the team. I have a basic knowledge of Python and the Pandas library and I am proficient with HTML, CSS, Javascript, Ruby, Ruby-on-Rails, React, and Redux, and continue to learn everyday. 
+I'm just a guy doing the thing.
 
 🌱 I graduated from Flatiron School's Full Time Online Software Engineering Bootcamp in September, 2020.
-
+Employed by Oracle from June, 2021
 
 <!--
 **JaesonWatts/JaesonWatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

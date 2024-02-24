@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm just a guy doing the thing.
+I'm just a lady making her way through the tech space.
 
 🌱 I graduated from Flatiron School's Full Time Online Software Engineering Bootcamp in September, 2020.
 Employed by Oracle from June, 2021
